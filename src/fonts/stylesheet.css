@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LittleLordFontleroy';
+    src: url('LittleLordFontleroy.eot');
+    src: url('LittleLordFontleroy.eot?#iefix') format('embedded-opentype'),
+        url('LittleLordFontleroy.woff2') format('woff2'),
+        url('LittleLordFontleroy.woff') format('woff'),
+        url('LittleLordFontleroy.svg#LittleLordFontleroy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
